@@ -15,7 +15,7 @@ This is a Library System project developed using Object-Oriented Programming (OO
 - [Any frameworks or libraries used]
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/yourusername/library-system.git`
+1. Clone the repository: `git clone https://github.com/eusantosdev/library-system.git`
 2. Navigate to the project directory: `cd library-system`
 3. [Instructions for setting up the project, if applicable]
 
